@@ -1,0 +1,73 @@
+.btn{
+
+  cursor: pointer;
+  width: 100px;
+  height: 61px;
+  border-radius: 10px;
+  background-color: red;
+  color:black;
+  font-size: 18px;
+  margin-left: 5px;
+  font-family: cursive;
+  border: 2px solid;
+}
+
+.inp{
+  margin-left: 36%;
+  margin-top: 5%;
+  width: 250px;
+  height: 61px;
+  border: 2px solid green;
+  background:rgb(235, 244, 247);
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: cursive;
+}
+.mas2{
+  
+  margin-left:37% ;
+}
+
+.ul{
+
+  font-size: 40px;
+  font-style: italic;
+  color: rgb(8, 85, 8)
+  
+}
+
+.btn:hover{
+
+  background-color: rgb(141, 238, 141);
+  color:red;
+}
+
+.x{
+
+  color: red;
+} 
+
+
+
+.del{
+ 
+  cursor: pointer;
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(141, 238, 141);
+  color:black;
+  font-size: 18px;
+  margin-left: 200px;
+  font-family: cursive;
+  border: 2px solid;
+
+ 
+}
+
+.del:hover{
+
+  background-color: red;
+  color: black
+}
+
